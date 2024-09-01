@@ -21,13 +21,15 @@ Certifique-se de que você tenha o [FFmpeg](https://ffmpeg.org/download.html) in
 - `datetime` (integrado ao Python)
 - `wikipedia`
 
-##Fale com o assistente para dar comandos como:
+## Uso
 
--"Enviando mensagem"
--"Toque [nome da música]"
--"Procure por [termo]"
+Fale com o assistente para dar comandos como:
+
+- "Enviando mensagem"
+- "Toque [nome da música]"
+- "Procure por [termo]"
 - "Abra a máquina"
 
-##Contribuição
-Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests e relatar problemas.
+## Contribuição
 
+Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests e relatar problemas.
