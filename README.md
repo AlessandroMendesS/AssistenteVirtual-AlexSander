@@ -33,3 +33,9 @@ Fale com o assistente para dar comandos como:
 ## Contribuição
 
 Contribuições são bem-vindas! Sinta-se à vontade para enviar pull requests e relatar problemas.
+
+# Ilustração
+![image](https://github.com/user-attachments/assets/864f244c-d774-4d0a-bafe-e0463e7acc24)
+![image](https://github.com/user-attachments/assets/19ec9270-3090-4c2d-9a50-68b0bf975647)
+
+
